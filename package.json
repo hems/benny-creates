@@ -1,0 +1,14 @@
+{
+  "name": "benny-creates",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "A minimalistic approach to scaffolding benny blocks",
+  "author": "Henrique Matias <mail@hems.io>",
+  "scripts": {
+    "create": "node src/create.js"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^7.7.1",
+    "cfonts": "^3.3.0"
+  }
+}
